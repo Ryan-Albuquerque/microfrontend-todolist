@@ -31,6 +31,15 @@ cd ../host
 npm install
 ```
 
+## Tests
+
+To run tests, use the following command: 
+
+```sh
+cd todo-mfe
+npm test
+```
+
 ## Usage
 
 To run the Todo Micro Frontend and Host, use the following command:
