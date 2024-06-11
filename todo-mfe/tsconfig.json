@@ -9,7 +9,7 @@
     "forceConsistentCasingInFileNames": true,
     "outDir": "./dist",
     "sourceMap": true,
-    "moduleResolution": "node" // Adicione essa linha
+    "moduleResolution": "node"
   },
   "include": ["src"],
   "exclude": ["node_modules"]
